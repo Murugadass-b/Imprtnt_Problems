@@ -1,3 +1,4 @@
+//21
 import java.util.Scanner;
 
 public class MarkAnalysis {

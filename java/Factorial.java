@@ -1,3 +1,4 @@
+
 import java.util.*;
 public class Factorial {
     public int fact(int n){

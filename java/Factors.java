@@ -1,3 +1,4 @@
+//31
 import java.util.Scanner;
 
 public class Factors {
